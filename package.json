@@ -5,6 +5,9 @@
   "repository": "yes",
   "author": "no",
   "license": "MIT",
+  "engines": {
+    "node": "11.14.0"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.1.0",
