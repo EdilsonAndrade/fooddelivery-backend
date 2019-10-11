@@ -12,10 +12,11 @@
     "cors": "^2.8.5",
     "dotenv": "^8.1.0",
     "express": "^4.17.1",
-    "mongoose": "5.7.4"
+    "mongoose": "5.7.4",
+    "nodemailer": "^6.3.1"
   },
   "devDependencies": {
-    "nodemailer": "^6.3.1",
+    
     "nodemon": "^1.19.3"
   },
   "scripts": {
